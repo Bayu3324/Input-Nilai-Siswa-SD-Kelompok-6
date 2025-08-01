@@ -35,6 +35,5 @@ Untuk menjalankan file Python `Project real.py` di Windows menggunakan Visual St
   pip install pandas openpyxl
   pip install logging
   pip install openpyxl
-  pip install os 
   ```
 
